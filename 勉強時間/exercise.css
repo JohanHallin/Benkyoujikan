@@ -9,6 +9,6 @@
 #top_container{
     flex-direction: row;
 }
-#question{
+#question, #note{
     text-align: center;
 }

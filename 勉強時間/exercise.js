@@ -16,7 +16,11 @@ function Random(val1, val2){
 }
 
 function checkAnswer(){
-    
+    if(document.getElementById("question").innerHTML == "Question"){
+        newQuestion()
+        return
+    }
+
     switch(questionType){
         case 0:
             if(document.getElementById("user_answer").value == data.Lessons[lessonIndex].Vocab[index].Kana){
@@ -62,4 +66,5 @@ function newQuestion(){
             document.getElementById("question").innerHTML = `Write "${data.Lessons[lessonIndex].Vocab[index].Kana}" in Kanji (on paper)`
             break
     }
+    document.getElementById("note").innerHTML = data.Lessons[lessonIndex].Vocab[index].Note
 }
