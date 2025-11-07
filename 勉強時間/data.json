@@ -47,6 +47,8 @@
             {"Type": "Noun", "English": "car", "Kana": "くるま", "Kanji": "車", "Note": null},
             {"Type": "Noun", "English": "holiday; absence", "Kana": "やすみ", "Kanji": "休み", "Note": null},
             {"Type": "Noun", "English": "next", "Kana": "つぎ", "Kanji": "次", "Note": null},
+            {"Type": "Noun", "English": "what time", "Kana": "なんじ", "Kanji": "何時", "Note": null},
+            {"Type": "Noun", "English": "how many people", "Kana": "なんにん", "Kanji": "何人", "Note": null},
 
             {"Type": "な-adjective", "English": "skillful; good at ...", "Kana": "じょうず", "Kanji": null, "Note": "~が"},
             {"Type": "な-adjective", "English": "clumsy; poor at ...", "Kana": "へた", "Kanji": null, "Note": "~が"},
@@ -89,9 +91,8 @@
 
             {"Type": "い-adjective", "English": "new", "Kana": "あたらしい", "Kanji": "新しい", "Note": "~が"},
             
-            {"Type": "Pronoun", "English": "what", "Kana": "なに", "Kanji": "何", "Note": null},
-            {"Type": "Pronoun", "English": "what time", "Kana": "なんじ", "Kanji": "何時", "Note": null},
-            {"Type": "Pronoun", "English": "how many people", "Kana": "なんにん", "Kanji": "何人", "Note": null}
+            {"Type": "Pronoun", "English": "what", "Kana": "なに", "Kanji": "何", "Note": null}
             ]}
         ]
+
     }
