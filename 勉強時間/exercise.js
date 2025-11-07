@@ -28,16 +28,11 @@ function checkAnswer(){
             }
             break
         case 1:
-            if(document.getElementById("user_answer").value == data.Lessons[lessonIndex].Vocab[index].English){
-                newQuestion()
-            }
-            break
-        case 2:
             if(document.getElementById("user_answer").value == data.Lessons[lessonIndex].Vocab[index].Kana){
                 newQuestion()
             }
             break
-        case 3:
+        case 2:
             newQuestion()
             break
     }
