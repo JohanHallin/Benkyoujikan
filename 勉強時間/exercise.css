@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.container > *{
+    flex-grow: 1;
+    margin: 2%;
+}
+#top_container{
+    flex-direction: row;
+}
+#question{
+    text-align: center;
+}
