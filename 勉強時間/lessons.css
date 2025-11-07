@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+#top_container{
+    flex-direction: row;
+}
+.container > *{
+    flex-grow: 1;
+    margin: 5px;
+}
+#lessons_list{
+    border: solid black 2px;
+    border-radius: 10px;
+    background-color: #eee;
+}
+a{
+    border: solid black 2px;
+    text-align: center;
+    background-color: #bbb;
+    margin: 1%;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: #888;
+}
+#top_div{
+    padding: 5%;
+}

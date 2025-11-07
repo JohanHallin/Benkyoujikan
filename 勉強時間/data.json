@@ -1,0 +1,97 @@
+{
+    "Lessons":[
+        {"Lesson": "Lesson 1", "Title": "New Friends", "Vocab": []},
+        
+        {"Lesson": "Lesson 2", "Title": "Shopping", "Vocab": []},
+
+        {"Lesson": "Lesson 3", "Title": "Making a Date", "Vocab": []},
+
+        {"Lesson": "Lesson 4", "Title": "The First Date", "Vocab": []},
+
+        {"Lesson": "Lesson 5", "Title": "A Trip to Okinawa", "Vocab": []},
+
+        {"Lesson": "Lesson 6", "Title": "A Day in Robert's Life", "Vocab": []},
+
+        {"Lesson": "Lesson 7", "Title": "Family Picture", "Vocab": []},
+
+        {"Lesson": "Lesson 8", "Title": "Barbecue", "Vocab": [
+            {"Type": "Noun", "English": "sunny weather", "Kana": "はれ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "rain", "Kana": "あめ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "cloudy weather", "Kana": "くもり", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "snow", "Kana": "ゆき", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "weather forcast", "Kana": "てんきよほう", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "temperature", "Kana": "きおん", "Kanji": null, "Note": "Weather, not used for things"},
+            {"Type": "Noun", "English": "summer", "Kana": "なつ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "winter", "Kana": "ふゆ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "this morning", "Kana": "けさ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "the day after tommorow", "Kana": "あさって", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "every week", "Kana": "まいしゅう", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "this month", "Kana": "こんげつ", "Kanji": "今月", "Note": null},
+            {"Type": "Noun", "English": "next month", "Kana": "らいげつ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "office worker", "Kana": "かいしゃいん", "Kanji": "会社員", "Note": null},
+            {"Type": "Noun", "English": "job; work; occupation", "Kana": "しごと", "Kanji": "仕事", "Note": null},
+            {"Type": "Noun", "English": "camera", "Kana": "カメラ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "karaoke", "Kana": "カラオケ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "place", "Kana": "ところ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "tomato", "Kana": "トマト", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "chopsticks", "Kana": "はし", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "party", "Kana": "パーティー", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "barbecue", "Kana": "バーベキュー", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "homestay; living with a local family", "Kana": "ホームステイ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "bath", "Kana": "おふろ", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "Spain", "Kana": "スパイン", "Kanji": null, "Note": null},
+            {"Type": "Noun", "English": "something", "Kana": "なにか", "Kanji": "何か", "Note": null},
+            {"Type": "Noun", "English": "newspaper", "Kana": "しんぶん", "Kanji": "新聞", "Note": null},
+            {"Type": "Noun", "English": "train", "Kana": "でんしゃ", "Kanji": "電車", "Note": null},
+            {"Type": "Noun", "English": "electricity; light", "Kana": "でんき", "Kanji": "電気", "Note": null},
+            {"Type": "Noun", "English": "car", "Kana": "くるま", "Kanji": "車", "Note": null},
+            {"Type": "Noun", "English": "holiday; absence", "Kana": "やすみ", "Kanji": "休み", "Note": null},
+            {"Type": "Noun", "English": "next", "Kana": "つぎ", "Kanji": "次", "Note": null},
+
+            {"Type": "な-adjective", "English": "skillful; good at ...", "Kana": "じょうず", "Kanji": null, "Note": "~が"},
+            {"Type": "な-adjective", "English": "clumsy; poor at ...", "Kana": "へた", "Kanji": null, "Note": "~が"},
+            {"Type": "な-adjective", "English": "famous", "Kana": "ゆうめい", "Kanji": null, "Note": null},
+            
+            {"Type": "U-verb", "English": "to wash", "Kana": "あらう", "Kanji": null, "Note": "~を"},
+            {"Type": "U-verb", "English": "to say", "Kana": "いう", "Kanji": "言う", "Note": null},
+            {"Type": "U-verb", "English": "to need", "Kana": "いる", "Kanji": null, "Note": "~が"},
+            {"Type": "U-verb", "English": "to be late", "Kana": "おそくなる", "Kanji": null, "Note": null},
+            {"Type": "U-verb", "English": "to take a bath", "Kana": "おふろにはいる", "Kanji": null, "Note": null},
+            {"Type": "U-verb", "English": "to think", "Kana": "おもう", "Kanji": "思う", "Note": null},
+            {"Type": "U-verb", "English": "to cut", "Kana": "きる", "Kanji": null, "Note": null},
+            {"Type": "U-verb", "English": "to make", "Kana": "つくる", "Kanji": "作る", "Note": "~を"},
+            {"Type": "U-verb", "English": "rain falls", "Kana": "あめがふる", "Kanji": null, "Note": "~を"},
+            {"Type": "U-verb", "English": "snow falls", "Kana": "ゆきがふる", "Kanji": null, "Note": null},
+            {"Type": "U-verb", "English": "to take", "Kana": "もっていく", "Kanji": null, "Note": "~を"},
+            {"Type": "U-verb", "English": "to listen", "Kana": "きく", "Kanji": "聞く", "Note": "person に"},
+            {"Type": "U-verb", "English": "to be absent; to rest", "Kana": "やすむ", "Kanji": "休む", "Note": null},
+            {"Type": "U-verb", "English": "to read", "Kana": "よむ", "Kanji": "読む", "Note": "~を"},
+            
+            {"Type": "Ru-verb", "English": "to throw away", "Kana": "すてる", "Kanji": null, "Note": "~を"},
+            {"Type": "Ru-verb", "English": "to begin", "Kana": "はじめる", "Kanji": null, "Note": "~を"},
+            
+            {"Type": "Irregular verb", "English": "to drive", "Kana": "うんてんする", "Kanji": null, "Note": "~を"},
+            {"Type": "Irregular verb", "English": "to do laundry", "Kana": "せんらくする", "Kanji": null, "Note": "~を"},
+            {"Type": "Irregular verb", "English": "to clean", "Kana": "そうじする", "Kanji": null, "Note": "~を"},
+            {"Type": "Irregular verb", "English": "to cook", "Kana": "りょうりする", "Kanji": null, "Note": null},
+            
+            {"Type": "Adverb or other expression", "English": "uh-huh; yes", "Kana": "うん", "Kanji": null, "Note": null},
+            {"Type": "Adverb or other expression", "English": "uh-uh; no", "Kana": "ううん", "Kanji": null, "Note": null},
+            {"Type": "Adverb or other expression", "English": "always", "Kana": "いつも", "Kanji": null, "Note": null},
+            {"Type": "Adverb or other expression", "English": "late", "Kana": "おそく", "Kanji": null, "Note": "do something"},
+            {"Type": "Adverb or other expression", "English": "Cheers!", "Kana": "かんぱい", "Kanji": null, "Note": "a toast"},
+            {"Type": "Adverb or other expression", "English": "all together", "Kana": "みんなで", "Kanji": null, "Note": "with group of people"},
+            {"Type": "Adverb or other expression", "English": "That's too bad.", "Kana": "ざんねん", "Kanji": null, "Note": "ですね"},
+            {"Type": "Adverb or other expression", "English": "not ... yet", "Kana": "まだ", "Kanji": null, "Note": "+ negative"},
+            {"Type": "Adverb or other expression", "English": "about ...; concerning ...", "Kana": "~について", "Kanji": null, "Note": null},
+            {"Type": "Adverb or other expression", "English": "... degrees", "Kana": "~ど", "Kanji": null, "Note": "temperature"},
+            {"Type": "Adverb or other expression", "English": "how", "Kana": "~どう", "Kanji": null, "Note": null},
+
+            {"Type": "い-adjective", "English": "new", "Kana": "あたらしい", "Kanji": "新しい", "Note": "~が"},
+            
+            {"Type": "Pronoun", "English": "what", "Kana": "なに", "Kanji": "何", "Note": null},
+            {"Type": "Pronoun", "English": "what time", "Kana": "なんじ", "Kanji": "何時", "Note": null},
+            {"Type": "Pronoun", "English": "how many people", "Kana": "なんにん", "Kanji": "何人", "Note": null}
+            ]}
+        ]
+    }
