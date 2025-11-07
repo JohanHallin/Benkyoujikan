@@ -47,9 +47,9 @@ function newQuestion(){
     index = Random(0, data.Lessons[lessonIndex].Vocab.length)
 
     if(data.Lessons[lessonIndex].Vocab[index].Kanji != null){
-        questionType = Random(0, 3)
+        questionType = Random(0, 2)
     }else{
-        questionType = Random(0, 1)
+        questionType = 0
     }
     
     switch(questionType){
@@ -57,12 +57,9 @@ function newQuestion(){
             document.getElementById("question").innerHTML = `Write "${data.Lessons[lessonIndex].Vocab[index].English}" with kana`
             break
         case 1:
-            document.getElementById("question").innerHTML = `Write "${data.Lessons[lessonIndex].Vocab[index].Kana}" in English`
-            break
-        case 2:
             document.getElementById("question").innerHTML = `Write "${data.Lessons[lessonIndex].Vocab[index].Kanji}" in Kana`
             break
-        case 3:
+        case 2:
             document.getElementById("question").innerHTML = `Write "${data.Lessons[lessonIndex].Vocab[index].Kana}" in Kanji (on paper)`
             break
     }
